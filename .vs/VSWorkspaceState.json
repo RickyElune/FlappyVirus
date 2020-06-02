@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Floor",
+    "\\src\\components\\GameOver",
+    "\\src\\components\\Obstacle",
+    "\\src\\components\\Plane",
+    "\\src\\entities",
+    "\\src\\systems",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\systems\\obstacle.js",
+  "PreviewInSolutionExplorer": false
+}
